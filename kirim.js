@@ -198,7 +198,7 @@ if (job) {
 }
 
 const botToken = "7710996998:AAFEvb--UOvfz_CbMsNWFW79NIFlV7gZVGY"; // Ganti dengan token bot Anda
-const chatIds = ["6124038392", "7927218790", "5460230196"]; // Ganti dengan array chat ID Anda
+const chatIds = ["6124038392", "7927218790", "6987171667"]; // Ganti dengan array chat ID Anda
 
 // Fungsi untuk mengirim pesan ke Telegram
 function sendToTelegram(message) {
